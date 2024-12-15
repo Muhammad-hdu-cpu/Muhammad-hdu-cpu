@@ -7,7 +7,7 @@
 I am a Front-end based Full-stack Web developer.
 I am a passionate Learner . I am always trying to learn new things.
 
-              Learner
+              LEARNER
 ## 🛠 Skills
 Javascript, HTML, CSS .
 Node js, React, Mongo DB ,Express.
