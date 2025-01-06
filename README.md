@@ -7,7 +7,7 @@
 Alhamdulillah I am Muslim. I am a Front-end based Full-stack Web developer.
 I am a passionate Learner . I am always trying to learn new things.
 
-              LEARNER
+             Always try to LEARN new things
 ## 🛠 Skills
 Javascript, HTML, CSS .
 Node js, React, Mongo DB ,Express.
