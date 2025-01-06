@@ -19,7 +19,7 @@ Node js, React, Mongo DB ,Express.
 
 🧠 I'm currently learning Back-end
 
-🤔 I'm looking for help with enhance my skills
+🤔 I'm looking for help to enhance my skills
 
 💬 Ask me about any Problems and collaboration
 
