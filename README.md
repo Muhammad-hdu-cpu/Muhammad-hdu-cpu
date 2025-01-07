@@ -14,7 +14,7 @@ Node js, React, Mongo DB ,Express.
 
 
 
-## Other Common Github Profile Sections
+## Others
 👩‍💻 I'm currently working on My own projects
 
 🧠 I'm currently learning Back-end
