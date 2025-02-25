@@ -15,18 +15,19 @@ Node js, React, Mongo DB ,Express.
 
 
 ## Others
-👩‍💻 I'm currently working on My own projects
+👩‍💻 I'm currently working on My skills.
 
-🧠 I'm currently learning Back-end
+🧠 I'm currently learning Back-end.
 
-🤔 I'm looking for help to enhance my skills
+🤔 I'm looking for help to enhance my skills.
 
-💬 Ask me about any Problems and collaboration
+💬 Ask me about any Problems and collaboration.
 
 📫 How to reach me Email : muhammadmarch09@gmail.com
 
 ⚡️ Hobbies are Reading books, coding, Driving cars.
 
+🥱 Not interested in Politics at all.
 
 ## Tech Stack
 
